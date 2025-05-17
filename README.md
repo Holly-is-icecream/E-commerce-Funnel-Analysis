@@ -50,13 +50,14 @@ This project analyzes user behavior data from a real-world e-commerce platform (
 
 ---
 
+### 🔍 Insights & Recommendations
+Funnel analysis revealed that only 27% of carted sessions led to purchase, suggesting friction during checkout. I recommended simplifying the checkout process and implementing cart abandonment reminders. These suggestions aimed to improve final-stage conversion and reduce revenue leakage.
+
+---
+
 ## 📈 Key Metrics
 
 - View-to-Cart Conversion Rate
 - Cart-to-Purchase Conversion Rate
 - Session-based funnel completion rate
 - Most viewed and most purchased categories
-
----
-
-
