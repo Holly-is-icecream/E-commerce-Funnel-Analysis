@@ -1,11 +1,11 @@
-# 🛒 E-commerce Funnel Analysis Using Kaggle User Behavior Dataset
+# E-commerce Funnel Analysis Using Kaggle User Behavior Dataset
 
-## 📌 Overview
+## Overview
 This project analyzes user behavior data from a real-world e-commerce platform (Kaggle dataset) to identify drop-off points in the purchase funnel. The goal is to help businesses understand where users abandon the buying process and suggest improvements for conversion optimization.
 
 ---
 
-## 🗂 Dataset Source
+## Dataset Source
 
 - **Kaggle Dataset**: [E-Commerce Behavior Data](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
 - **Size**: ~75 million events
@@ -20,7 +20,7 @@ This project analyzes user behavior data from a real-world e-commerce platform (
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Clean and prepare large-scale user behavior data
 - Define and compute the e-commerce funnel: `view → cart → purchase`
@@ -30,7 +30,7 @@ This project analyzes user behavior data from a real-world e-commerce platform (
 
 ---
 
-## 📊 Funnel Structure
+## Funnel Structure
 
 | Funnel Step | Description |
 |-------------|-------------|
@@ -40,7 +40,7 @@ This project analyzes user behavior data from a real-world e-commerce platform (
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python: `pandas`, `numpy`, `matplotlib`, `seaborn`
 - SQL (BigQuery or SQLite): Querying grouped session-level funnels
@@ -50,7 +50,7 @@ This project analyzes user behavior data from a real-world e-commerce platform (
 
 ---
 
-### 🔍 Insights & Recommendations
+### Insights & Recommendations
 Funnel analysis revealed that only 27% of carted sessions led to purchase, suggesting friction during checkout. I recommended simplifying the checkout process and implementing cart abandonment reminders. These suggestions aimed to improve final-stage conversion and reduce revenue leakage.
 
 ---
